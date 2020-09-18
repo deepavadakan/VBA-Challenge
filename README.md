@@ -1,6 +1,7 @@
 # VBA-Challenge
 
 Stock_Ticker_VBA_Script.rtf : Contains the VBA script. The script does the following:
+  
   Displays:
   1. The ticker symbol.
   2. Yearly change (conditional formatting to highlight positive change in green and negative in red)
