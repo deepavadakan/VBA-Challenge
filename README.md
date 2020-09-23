@@ -1,6 +1,6 @@
 # VBA-Challenge
 
-Stock_Ticker_VBA_Script.rtf : Contains the VBA script. (Added the scrupt as a vbs file as well just in case the rtf does not work)
+Stock_Ticker_VBA_Script.rtf : Contains the VBA script. (Added the script as a vbs file as well just in case the rtf does not work)
 
 The script does the following:
   
