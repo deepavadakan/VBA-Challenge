@@ -1,6 +1,8 @@
 # VBA-Challenge
 
-Stock_Ticker_VBA_Script.rtf : Contains the VBA script. The script does the following:
+Stock_Ticker_VBA_Script.rtf : Contains the VBA script. (Added the scrupt as a vbs file as well just in case the rtf does not work)
+
+The script does the following:
   
   Displays:
   1. The ticker symbol.
